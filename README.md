@@ -8,5 +8,5 @@ In this lab, you will write some programs to discover mathematical secrets behin
 
 
 Click Below:
-[For Full Documentation on the Project](https://github.com/lucianogiannini/Text-Compression/blob/main/Lab%203%20-%20Compression.pdf)
+[For Full Documentation on the Project](https://github.com/lucianogiannini/Combinatorics/blob/main/Lab%204%20-%20A%20Mathematical%20Card%20Trick.pdf)
 
